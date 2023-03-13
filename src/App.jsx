@@ -28,7 +28,7 @@ function App() {
         <div className=" my-4 h-[190px] w-full bg-backgroundAndButton">
           <div className="relative mx-auto h-full max-w-[450px]">
             <img
-              src="/src/assets/keyboard.png"
+              src="/keyboard.png"
               alt="keyboard in giveway"
               className="pointer-events-none absolute -top-12 h-auto w-full"
             />
@@ -44,7 +44,7 @@ function App() {
             Enter Giveaway
           </button>
           <img
-            src="/src/assets/Gift--Icon.svg"
+            src="/Gift--Icon.svg"
             alt=""
             className="pointer-events-none absolute right-0 -top-5 h-7 w-7 animate-gift-shake"
           />
